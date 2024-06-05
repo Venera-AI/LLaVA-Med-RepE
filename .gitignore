@@ -1,3 +1,6 @@
 __pycache__
 *.pyc
 *.egg-info
+*.log
+serve_images
+*-conv.json

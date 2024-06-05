@@ -13,13 +13,13 @@ classifiers = [
     "License :: OSI Approved :: Apache Software License",
 ]
 dependencies = [
-    "transformers==4.36.2",
+    "transformers==4.41.2",
     "tokenizers>=0.15.0",
     "sentencepiece==0.1.99",
     "shortuuid",
     "accelerate==0.21.0",
     "peft==0.4.0",
-    "bitsandbytes==0.41.0",
+    "bitsandbytes==0.43.1",
     "pydantic<2,>=1",
     "markdown2[all]",
     "protobuf",
